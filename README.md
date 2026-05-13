@@ -44,14 +44,15 @@ Python | Web Development | Cyber Security Learner
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EswarSakethMaturi&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EswarSakethMaturi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarSakethMaturi&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarSakethMaturi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
 
 ## 🔥 GitHub Streak
 
