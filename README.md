@@ -56,7 +56,7 @@ Python | Web Development | Cyber Security Learner
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EswarSakethMaturi&theme=github-dark-blue" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eswar-dev55&theme=github-dark-blue" />
 </p>
 
 ---
