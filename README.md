@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 <div align="center">
 
 # Hi there, I'm Eswar Saketh Maturi 👋
@@ -81,3 +82,6 @@
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=EswarSakethMaturi&color=blue)
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
