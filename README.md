@@ -67,7 +67,7 @@
 
 # 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EswarSakethMaturi&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=eswar-dev55&theme=tokyonight)
 
 ---
 
